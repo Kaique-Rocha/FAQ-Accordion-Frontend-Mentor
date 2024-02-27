@@ -10,6 +10,7 @@ body{
 }
 button {
     border: 0px;
+    margin-right: 20px;
 }
 
 button:hover {
@@ -51,6 +52,7 @@ p {
 
 .logo img{
     margin-right: 3%;
+    margin-left: 3%;
 }
 
 .title-question{
